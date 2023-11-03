@@ -1,0 +1,15 @@
+configVersion: 1.0.0
+generation:
+  comments:
+    disableComments: false
+    omitDescriptionIfSummaryPresent: false
+  baseServerURL: ""
+  flattenGlobalSecurity: true
+  sdkClassName: Credit-Profile
+  singleTagPerOp: false
+  tagNamespacingDisabled: false
+php:
+  version: 0.0.1
+  maxMethodParams: 4
+  namespace: OpenNote\Credit_Profile
+  packageName: opennote/credit-profile
